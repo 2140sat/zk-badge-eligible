@@ -1,7 +1,7 @@
 # Syntax Walkthrough:
 # Github repository: https://github.com/2140sat/zk-badge-eligible -> 2140sat/zk-badge-eligible
 
-ц/cairo-rs,
+lambdaclass/cairo-rs,
 lambdaclass/lambdaworks,
 lambdaclass/aleo_lambda_blockchain,
 lambdaclass/starknet_in_rust,
@@ -175,7 +175,7 @@ mintsquare/simple-erc721-transfer-ui
 
 2140sat/zk-badge-eligible
 
-	ZigZagExchange/zigzag-v3
+ZigZagExchange/zigzag-v3
 ZigZagExchange/lightning-dex
 ZigZagExchange/backend
 ZigZagExchange/frontend
@@ -184,8 +184,8 @@ ZigZagExchange/landing-site
 ZigZagExchange/market-maker-v3
 ZigZagExchange/mammoth_UI
 ZigZagExchange/hummingbot
-	ZigZagExchange/token
-	ZigZagExchange/zznft
+ZigZagExchange/token
+ZigZagExchange/zznft
 ZigZagExchange/starknet-oracle
 ZigZagExchange/starknet-contracts
 
