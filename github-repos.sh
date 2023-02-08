@@ -1,10 +1,10 @@
 # Syntax Walkthrough:
 # Github repository: https://github.com/2140sat/zk-badge-eligible -> 2140sat/zk-badge-eligible
 
-lambdaclass/cairo-rs
-lambdaclass/lambdaworks
-lambdaclass/aleo_lambda_blockchain
-lambdaclass/starknet_in_rust
+ц/cairo-rs,
+lambdaclass/lambdaworks,
+lambdaclass/aleo_lambda_blockchain,
+lambdaclass/starknet_in_rust,
 lambdaclass/kakarot
 
 sismo-core/sismo-hub
@@ -95,6 +95,7 @@ MinaProtocol/load-generator
 
 jediswaplabs/jediswap-interface
 jediswaplabs/JediSwap
+
 dhruvkelawala/web3-starknet-react
 
 anoma/juvix
@@ -119,6 +120,7 @@ zkLend/paris-hackathon-2022
 
 zkxteam/Autumn-StarkNet-Hackathon
 zkxteam/interviews-public
+
 nymtech/nym
 nymtech/sphinx
 nymtech/nym-mixnet
@@ -127,8 +129,8 @@ nymtech/service-grants
 nymtech/nyxd
 nymtech/developer-tutorials
 nymtech/bdjuno
-InternetMaximalism/intmax-zkp-core
 
+InternetMaximalism/intmax-zkp-core
 InternetMaximalism/plonky2
 InternetMaximalism/intmax-rollup-cli
 InternetMaximalism/intmax-rollup-interface
@@ -173,12 +175,7 @@ mintsquare/simple-erc721-transfer-ui
 
 2140sat/zk-badge-eligible
 
-rhinofi/dvf-client-js
-rhinofi/logger
-rhinofi/dvf-utils
-rhinofi/api-documentation
-
-ZigZagExchange/zigzag-v3
+	ZigZagExchange/zigzag-v3
 ZigZagExchange/lightning-dex
 ZigZagExchange/backend
 ZigZagExchange/frontend
@@ -187,8 +184,8 @@ ZigZagExchange/landing-site
 ZigZagExchange/market-maker-v3
 ZigZagExchange/mammoth_UI
 ZigZagExchange/hummingbot
-ZigZagExchange/token
-ZigZagExchange/zznft
+	ZigZagExchange/token
+	ZigZagExchange/zznft
 ZigZagExchange/starknet-oracle
 ZigZagExchange/starknet-contracts
 
@@ -200,3 +197,77 @@ l2labs/zkswap-contracts
 l2labs/zkspace-whitepaper
 
 Manta-Network/manta-signer
+
+succinctlabs/tokenbridge-contracts
+succinctlabs/eth-proof-of-consensus
+succinctlabs/telepathy-contracts
+succinctlabs/optimism-libraries
+succinctlabs/omnibridge-ui
+succinctlabs/v3-core
+
+axiom-crypto/halo2-lib
+axiom-crypto/axiom-eth
+axiom-crypto/halo2
+axiom-crypto/halo2-scaffold
+axiom-crypto/snark-verifier
+
+risc0/risc0
+risc0/risc0-rust-starter
+risc0/risc0-rust-examples
+risc0/battleship-example
+risc0/website
+risc0/rules_rust
+risc0/rust
+risc0/cargo
+risc0/zk-benchmarking
+
+delendum-xyz/zk-benchmarking
+delendum-xyz/starkvm-compiler
+delendum-xyz/delendum.xyz
+delendum-xyz/zk-knowledge
+delendum-xyz/zk-dev-needs
+delendum-xyz/zk-academic
+
+mmaller/vdf_snark
+
+zkopru-network/zkopru
+zkopru-network/private-exchange
+zkopru-network/blind-find
+zkopru-network/wallet
+zkopru-network/merchant-payment-service
+zkopru-network/protocol-specification
+zkopru-network/status
+
+0xPolygonMiden/miden-vm
+0xPolygonMiden/air-script
+0xPolygonMiden/crypto
+0xPolygonMiden/miden-base
+
+aleph-zero-foundation/AlephBFT
+aleph-zero-foundation/aleph-node
+aleph-zero-foundation/Proof-of-Concept
+aleph-zero-foundation/consensus-go
+aleph-zero-foundation/core-go
+aleph-zero-foundation/threshold-ecdsa
+
+darkforest-eth/darkforest-v0.3
+darkforest-eth/eth
+darkforest-eth/client
+darkforest-eth/plugins
+darkforest-eth/circuits
+darkforest-eth/developer-guides
+darkforest-eth/darkforest-v0.6
+
+HorizenOfficial/ginger-lib
+HorizenOfficial/zendoo-sc-cryptolib
+
+arkworks-rs/curves
+arkworks-rs/poly-commit
+arkworks-rs/algebra
+arkworks-rs/groth16
+arkworks-rs/crypto-primitives
+arkworks-rs/sumcheck
+arkworks-rs/r1cs-std
+arkworks-rs/ripp
+arkworks-rs/gm17
+arkworks-rs/snark
