@@ -33,9 +33,11 @@ sidius.eth
 brunny.eth
 vitalik.eth
 weijie.eth
+traw.944gm.eth 
 
 github:mmaller
 github:Rumata888
+github:Trawmoney
 
 twitter:Ziking__
 twitter:big_q__
@@ -155,6 +157,7 @@ twitter:shumochu
 twitter:JensGroth3
 twitter:rahulmaganti_
 twitter:jniset
+twitter:TRawMoney93
 twitter:cryptobuilder_
 twitter:wanseoblim
 twitter:grjte
